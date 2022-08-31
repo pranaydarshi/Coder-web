@@ -1,0 +1,47 @@
+.body{
+    position: relative;
+}
+.contact{
+    position: absolute;
+    top:2%;
+    right:5%;
+}
+.email{
+    width:300px;
+}
+.pass{
+    width:300px;
+}
+.coder {
+    color: red;
+}
+
+.platform {
+    color: rgb(160, 92, 194)
+}
+
+.contact {
+    position: absolute;
+    top: 2%;
+    right: 20%;
+}
+.features-one{
+    position: absolute;
+    top:75px;
+    left:500px;
+}
+.features-two{
+    position: absolute;
+    top:70px;
+    left: 900px;
+}
+.ca{
+    position: absolute;
+    bottom:0px;
+    width:100%;
+}
+.signin{
+    position: absolute;
+    top: 2%;
+    right: 5%;
+}
